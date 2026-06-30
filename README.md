@@ -1,2 +1,2 @@
 # marrige-website
-it is an normal marrige invitstion webppage
+it is an normal marrige invitation webppage
